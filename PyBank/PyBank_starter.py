@@ -3,7 +3,7 @@
 
 # Dependencies
 import csv
-import os
+import
 
 # Files to load and output (update with correct file paths)
 file_to_load = os.path.join("Resources", "budget_data.csv")  # Input file path
@@ -52,6 +52,3 @@ with open(file_to_load) as financial_data:
 # Print the output
 
 
-# Write the results to a text file
-with open(file_to_output, "w") as txt_file:
-    txt_file.write(output)
