@@ -1,7 +1,7 @@
 # python-challenge
 in this repository you will find two python script:
 
-1. The Paybank.py is a script that was create to analyze the financial records of a company, including:
+1. The Paybank.py is a script that was create to analyze the financial records of a company using a CSV file (budget_data.csv), providing by the company, including:
 - The total of monsths.
 -  The net total amount of "Profit/Losses" over the entire period of the company.
 -  The changes in "Profit/Losses" over the entire period.
@@ -10,7 +10,7 @@ in this repository you will find two python script:
 -  The greatest decrease in profits.
 -  The result analysis in the folder Analysis.
 
-  2. The Paypoll.py is a script that was create to help a small rural town to modernize its vote-counting process, by creating a Python script that analyzes: 
+  2. The Paypoll.py is a script that was create to help a small rural town to modernize its vote-counting process, by creating a Python script using a CSV file (election_data.csv)that analyzes: 
 - The total number of votes cast in the town.
 - list of candidates who received votes.
 - The percentage of votes each candidate won.
